@@ -1,1 +1,8 @@
 .env
+ag_models_california_ensemble/ 
+*.pkl 
+ag_models_california_ensemble/ 
+ag_models_california_ensemble/ 
+*.pkl 
+"ag_models_california_ensemble/" 
+"*.pkl" 
