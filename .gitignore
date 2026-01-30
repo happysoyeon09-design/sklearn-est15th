@@ -6,3 +6,6 @@ ag_models_california_ensemble/
 *.pkl 
 "ag_models_california_ensemble/" 
 "*.pkl" 
+*.pkl
+AutoGluon_meduim 
+AutoGluon_best 
